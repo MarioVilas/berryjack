@@ -30,7 +30,7 @@ Setup
 
 Clone the repository and add executable permission to berryjack.
 
-    git clone git@github.com:dyama/berryjack
+    git clone https://github.com/dyama/berryjack.git
     cd berryjack
     chmod a+x berryjack
 
